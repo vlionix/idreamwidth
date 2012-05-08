@@ -1,5 +1,12 @@
 README
 
+0.0
+
+iDreamwidth has been uploaded to github and is in a state of flux. 
+
+It compiles on Snow Leopard XCode version 3.2.6.
+
+
 1.0 - LEGAL NOTICE
 
 iDreamwidth
@@ -23,8 +30,6 @@ THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS "AS IS" AND 
 
 iDreamwidth is a mobile client for Dreamwidth for Apple's iOS devices, iOS 3+.  The client allows a user to post entries to their journals and communities, edit past entries, and read recent posts made by users they have subscribed to on their Reading Page.  iDreamwidth uses the flat-interface protocol and should be able to also work with LiveJournal (though this feature is not currently enabled).
 
-The version of iDreamwidth you are currently is the source code as of the end of Google's Summer of Code 2010.  To see a more recent version of the code, please visit the application's code site at http://code.google.com/p/idreamwidth/.
-
 3.0 - Contact Information
 
-Please check out the current build at http://code.google.com/p/idreamwidth/.  If you have any questions or concerns about iDreamwidth, please direct them to iDreamwidth@gmail.com.
+If you have any questions or concerns about iDreamwidth, please direct them to http://dw-dev.dreamwidth.org/.
